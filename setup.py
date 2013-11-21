@@ -13,7 +13,7 @@ setup_args = {'name': 'lyx-pelican',
               'packages': ['lyxpelican', 'lyxpelican.test'],
               'license': 'LICENSE.txt',
               'description':
-              'A pelican plugin for reading lyx files',
+              'A Pelican plugin for reading lyx files',
               'long_description': open('README.md', 'r').read(),
               'py_modules': ['lyxpelican.lyxpelican',
                              'lyxpelican.elyxer', 
